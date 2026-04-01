@@ -1,0 +1,221 @@
+store_id,store_name,city,store_type,open_year
+STR_001,CityMart Central,Delhi,Standalone,2019
+STR_220,GreenLeaf Market,Mumbai,Mall,2022
+STR_002,Urban Basket,Delhi,OnlineHub,2021
+STR_219,FreshWay Superstore,Delhi,Standalone,2022
+STR_003,MetroMart Plaza,Mumbai,OnlineHub,2019
+STR_218,DailyNeeds Store,Bangalore,OnlineHub,2022
+STR_004,Sunrise Grocery,Mumbai,Mall,2022
+STR_217,FamilyMart Hub,Bangalore,Mall,2019
+STR_005,Prime Basket Store,Delhi,Mall,2018
+STR_216,HappyCart Market,Delhi,Mall,2021
+STR_006,QuickPick Store,Bangalore,OnlineHub,2019
+STR_215,SmartBuy Mart,Delhi,Mall,2020
+STR_007,Grand Fresh Market,Bangalore,Mall,2018
+STR_214,BlueSky Superstore,Bangalore,Mall,2020
+STR_008,Urban Fresh Mart,Delhi,Mall,2018
+STR_213,Neighborhood Grocery,Hyderabad,OnlineHub,2021
+STR_009,Golden Basket,Bangalore,Mall,2021
+STR_212,DailyMart Express,Mumbai,OnlineHub,2022
+STR_010,FreshPoint Store,Mumbai,Standalone,2020
+STR_211,CityChoice Market,Delhi,OnlineHub,2018
+STR_011,TownSquare Mart,Hyderabad,OnlineHub,2021
+STR_210,GreenGarden Store,Delhi,Mall,2019
+STR_012,Metro Fresh Market,Hyderabad,Standalone,2021
+STR_209,Family Basket Store,Bangalore,Standalone,2019
+STR_013,QuickMart Hub,Bangalore,Standalone,2018
+STR_208,SmartChoice Store,Bangalore,Standalone,2021
+STR_014,UrbanCart Market,Bangalore,OnlineHub,2021
+STR_207,FreshHarvest Mart,Mumbai,Standalone,2018
+STR_015,CityFresh Store,Mumbai,OnlineHub,2021
+STR_206,Sunshine Grocery,Delhi,OnlineHub,2019
+STR_016,PrimeFresh Market,Hyderabad,OnlineHub,2021
+STR_205,Urban Valley Mart,Bangalore,Standalone,2020
+STR_017,Green Valley Store,Bangalore,Mall,2022
+STR_204,Metro Choice Market,Hyderabad,Mall,2019
+STR_018,FreshLand Mart,Hyderabad,Standalone,2020
+STR_203,Daily Fresh Store,Delhi,Mall,2018
+STR_019,Happy Basket Market,Hyderabad,Mall,2019
+STR_202,City Plaza Mart,Bangalore,OnlineHub,2022
+STR_020,Urban Market Hub,Bangalore,OnlineHub,2022
+STR_201,FreshWay Plaza,Bangalore,Standalone,2018
+STR_021,Metro Basket Mart,Bangalore,Standalone,2018
+STR_200,GreenMart Express,Bangalore,Mall,2019
+STR_022,TownMart Grocery,Delhi,OnlineHub,2021
+STR_199,Daily Basket Store,Bangalore,Standalone,2018
+STR_023,FreshHub Market,Delhi,Standalone,2021
+STR_198,City Harvest Mart,Bangalore,Standalone,2020
+STR_024,Urban Choice Store,Mumbai,Standalone,2022
+STR_197,Prime Market Hub,Mumbai,Standalone,2021
+STR_025,Sunrise Mart,Mumbai,Standalone,2022
+STR_196,Happy Fresh Store,Mumbai,Mall,2021
+STR_026,Metro Harvest Market,Delhi,OnlineHub,2020
+STR_195,City Basket Mart,Delhi,OnlineHub,2018
+STR_027,Green Basket Store,Hyderabad,Standalone,2020
+STR_194,FreshTown Market,Bangalore,OnlineHub,2018
+STR_028,Urban Plaza Mart,Mumbai,OnlineHub,2018
+STR_193,Family Harvest Store,Delhi,OnlineHub,2022
+STR_029,City Garden Market,Bangalore,Standalone,2020
+STR_192,FreshCart Mart,Bangalore,Standalone,2021
+STR_030,Urban Harvest Store,Delhi,OnlineHub,2020
+STR_191,Prime Fresh Mart,Mumbai,OnlineHub,2022
+STR_031,Green Harvest Market,Hyderabad,Standalone,2018
+STR_190,Daily Choice Store,Bangalore,Mall,2022
+STR_032,Metro Garden Mart,Hyderabad,OnlineHub,2019
+STR_189,Fresh Basket Market,Mumbai,Mall,2019
+STR_033,City Corner Mart,Mumbai,OnlineHub,2021
+STR_188,Urban Fresh Hub,Hyderabad,Mall,2022
+STR_034,Town Fresh Store,Mumbai,Mall,2021
+STR_187,Happy Garden Market,Bangalore,Mall,2021
+STR_035,Metro Valley Mart,Hyderabad,Standalone,2019
+STR_186,City Market Square,Mumbai,Mall,2021
+STR_036,Urban Green Store,Hyderabad,Mall,2019
+STR_185,FreshMart Express,Bangalore,Mall,2018
+STR_037,GreenChoice Market,Mumbai,OnlineHub,2022
+STR_184,City Fresh Plaza,Bangalore,Mall,2021
+STR_038,Urban Fresh Square,Mumbai,OnlineHub,2019
+STR_183,Metro Fresh Hub,Delhi,Mall,2020
+STR_039,Town Choice Store,Mumbai,Mall,2021
+STR_182,Prime Valley Market,Hyderabad,Standalone,2018
+STR_040,FreshLand Plaza,Mumbai,OnlineHub,2018
+STR_181,City Daily Mart,Bangalore,Mall,2020
+STR_041,Green Daily Store,Bangalore,OnlineHub,2019
+STR_180,Urban Prime Market,Mumbai,OnlineHub,2021
+STR_042,Metro Fresh Plaza,Hyderabad,Standalone,2019
+STR_179,Family Market Square,Delhi,Standalone,2018
+STR_043,Happy Mart Express,Hyderabad,Standalone,2019
+STR_178,City Basket Plaza,Delhi,Standalone,2018
+STR_044,Urban Market Square,Bangalore,Standalone,2019
+STR_177,FreshGarden Mart,Hyderabad,Standalone,2020
+STR_045,Prime Harvest Store,Delhi,Standalone,2022
+STR_176,Metro Choice Hub,Mumbai,Standalone,2020
+STR_046,Green Fresh Market,Bangalore,Mall,2020
+STR_175,City Choice Hub,Mumbai,OnlineHub,2022
+STR_047,Urban Basket Plaza,Bangalore,Standalone,2022
+STR_174,FreshTown Square,Hyderabad,Standalone,2021
+STR_048,Happy Harvest Mart,Hyderabad,OnlineHub,2021
+STR_173,Metro Basket Plaza,Bangalore,Mall,2020
+STR_049,GreenTown Market,Bangalore,OnlineHub,2020
+STR_172,City Garden Plaza,Bangalore,OnlineHub,2018
+STR_050,Urban Harvest Square,Hyderabad,Standalone,2018
+STR_171,Fresh Plaza Market,Delhi,OnlineHub,2021
+STR_051,Prime Basket Plaza,Mumbai,OnlineHub,2021
+STR_170,Metro Valley Market,Mumbai,Standalone,2018
+STR_052,City Daily Plaza,Hyderabad,Standalone,2018
+STR_169,Urban Garden Market,Mumbai,Standalone,2019
+STR_053,Fresh Valley Mart,Bangalore,Standalone,2019
+STR_168,Happy Basket Plaza,Delhi,OnlineHub,2018
+STR_054,Green Harvest Plaza,Mumbai,OnlineHub,2019
+STR_167,City Harvest Square,Delhi,Mall,2022
+STR_055,Urban Choice Plaza,Bangalore,Mall,2021
+STR_166,Metro Garden Market,Mumbai,OnlineHub,2021
+STR_056,FreshMart Square,Hyderabad,Mall,2018
+STR_165,Prime Garden Plaza,Delhi,OnlineHub,2020
+STR_057,Green Valley Plaza,Bangalore,Mall,2018
+STR_164,City Fresh Square,Delhi,Standalone,2019
+STR_058,Urban Valley Plaza,Mumbai,Mall,2020
+STR_163,Fresh Harvest Square,Mumbai,Standalone,2019
+STR_059,Metro Fresh Square,Hyderabad,Standalone,2022
+STR_162,Happy Valley Mart,Bangalore,Standalone,2019
+STR_060,City Garden Square,Bangalore,Standalone,2022
+STR_161,Urban Market Plaza,Hyderabad,Mall,2022
+STR_061,FreshTown Plaza,Hyderabad,OnlineHub,2019
+STR_160,Prime Choice Market,Bangalore,Standalone,2019
+STR_062,Metro Market Square,Delhi,Mall,2022
+STR_159,Green Basket Plaza,Delhi,Standalone,2020
+STR_063,City Valley Mart,Hyderabad,Mall,2022
+STR_158,Urban Garden Plaza,Delhi,Mall,2021
+STR_064,FreshChoice Mart,Bangalore,Mall,2022
+STR_157,Happy Fresh Plaza,Mumbai,OnlineHub,2020
+STR_065,Metro Harvest Square,Mumbai,Mall,2021
+STR_156,City Basket Square,Delhi,Mall,2018
+STR_066,Urban Fresh Plaza,Hyderabad,OnlineHub,2018
+STR_155,Fresh Valley Plaza,Hyderabad,OnlineHub,2020
+STR_067,Prime Fresh Square,Hyderabad,Mall,2022
+STR_154,Metro Choice Square,Hyderabad,OnlineHub,2019
+STR_068,Green Fresh Plaza,Hyderabad,Standalone,2020
+STR_153,City Choice Square,Delhi,Standalone,2021
+STR_069,Urban Harvest Plaza,Mumbai,OnlineHub,2021
+STR_152,Fresh Basket Square,Mumbai,OnlineHub,2018
+STR_070,Happy Harvest Plaza,Delhi,Mall,2021
+STR_151,Metro Garden Square,Hyderabad,OnlineHub,2020
+STR_071,Green Valley Square,Delhi,Mall,2021
+STR_150,City Fresh Plaza,Mumbai,Standalone,2020
+STR_072,Urban Choice Square,Bangalore,OnlineHub,2019
+STR_149,FreshTown Market Hub,Delhi,Mall,2018
+STR_073,Prime Basket Square,Hyderabad,Mall,2021
+STR_148,Metro Valley Square,Mumbai,Standalone,2020
+STR_074,Green Basket Square,Mumbai,OnlineHub,2022
+STR_147,City Garden Hub,Mumbai,Standalone,2018
+STR_075,Urban Fresh Square Hub,Mumbai,Mall,2019
+STR_146,FreshHarvest Plaza,Hyderabad,Mall,2020
+STR_076,Happy Fresh Square,Bangalore,OnlineHub,2019
+STR_145,Metro Basket Square,Mumbai,Mall,2019
+STR_077,City Market Hub,Delhi,OnlineHub,2021
+STR_144,Urban Valley Square,Bangalore,Standalone,2021
+STR_078,FreshChoice Plaza,Mumbai,OnlineHub,2020
+STR_143,Prime Harvest Square,Bangalore,OnlineHub,2022
+STR_079,Green Market Hub,Delhi,Mall,2020
+STR_142,City Basket Hub,Mumbai,Mall,2022
+STR_080,Urban Garden Hub,Delhi,OnlineHub,2019
+STR_141,Fresh Garden Hub,Hyderabad,Mall,2018
+STR_081,Happy Harvest Square Hub,Mumbai,Mall,2020
+STR_140,Metro Garden Hub,Mumbai,Mall,2020
+STR_082,City Choice Hub,Mumbai,OnlineHub,2022
+STR_139,Urban Basket Hub,Mumbai,Mall,2019
+STR_083,Fresh Valley Hub,Hyderabad,OnlineHub,2019
+STR_138,Prime Garden Hub,Mumbai,Mall,2022
+STR_084,Green Harvest Hub,Bangalore,Standalone,2019
+STR_137,City Harvest Hub,Mumbai,Mall,2021
+STR_085,Urban Market Hub,Hyderabad,Mall,2018
+STR_136,Fresh Basket Hub,Mumbai,OnlineHub,2020
+STR_086,Happy Garden Hub,Bangalore,OnlineHub,2018
+STR_135,Metro Valley Hub,Hyderabad,Mall,2020
+STR_087,City Fresh Hub,Hyderabad,Standalone,2021
+STR_134,Urban Choice Hub,Bangalore,Mall,2019
+STR_088,Fresh Harvest Hub,Bangalore,Mall,2022
+STR_133,Prime Basket Hub,Bangalore,Standalone,2021
+STR_089,Green Basket Hub,Bangalore,OnlineHub,2018
+STR_132,City Garden Market Hub,Bangalore,Mall,2022
+STR_090,Urban Fresh Market Hub,Hyderabad,OnlineHub,2019
+STR_131,FreshTown Market Square,Hyderabad,OnlineHub,2021
+STR_091,Happy Harvest Market Hub,Mumbai,Standalone,2022
+STR_130,Metro Basket Market Hub,Mumbai,Standalone,2021
+STR_092,City Valley Market Hub,Delhi,OnlineHub,2021
+STR_129,Urban Garden Market Hub,Mumbai,Mall,2019
+STR_093,Fresh Garden Market Hub,Mumbai,OnlineHub,2020
+STR_128,Prime Fresh Market Hub,Bangalore,Mall,2022
+STR_094,Green Harvest Market Hub,Bangalore,Mall,2019
+STR_127,City Basket Market Hub,Mumbai,Standalone,2021
+STR_095,Urban Market Market Hub,Delhi,Mall,2019
+STR_126,Fresh Choice Market Hub,Bangalore,Mall,2020
+STR_096,Happy Valley Market Hub,Mumbai,OnlineHub,2022
+STR_125,Metro Garden Market Hub,Mumbai,Standalone,2020
+STR_097,City Fresh Market Hub,Hyderabad,Mall,2018
+STR_124,Urban Choice Market Hub,Delhi,Mall,2022
+STR_098,Fresh Basket Market Hub,Hyderabad,Standalone,2020
+STR_123,Prime Garden Market Hub,Delhi,OnlineHub,2021
+STR_099,Green Basket Market Hub,Bangalore,Standalone,2022
+STR_122,City Garden Square Hub,Delhi,Standalone,2022
+STR_100,Urban Fresh Square Hub,Mumbai,Mall,2019
+STR_121,FreshTown Square Hub,Mumbai,Mall,2021
+STR_101,Happy Harvest Square Hub,Delhi,OnlineHub,2018
+STR_120,Metro Basket Square Hub,Delhi,Mall,2020
+STR_102,City Valley Square Hub,Delhi,Mall,2019
+STR_119,Urban Garden Square Hub,Hyderabad,Standalone,2020
+STR_103,Fresh Garden Square Hub,Delhi,Mall,2018
+STR_118,Prime Fresh Square Hub,Bangalore,OnlineHub,2018
+STR_104,Green Harvest Square Hub,Hyderabad,Standalone,2022
+STR_117,City Basket Square Hub,Hyderabad,OnlineHub,2018
+STR_105,Urban Market Square Hub,Delhi,Standalone,2020
+STR_116,Fresh Choice Square Hub,Bangalore,Mall,2021
+STR_106,Happy Valley Square Hub,Hyderabad,Standalone,2021
+STR_115,Metro Garden Square Hub,Mumbai,Standalone,2022
+STR_107,City Fresh Square Hub,Hyderabad,Mall,2020
+STR_114,Urban Choice Square Hub,Delhi,Mall,2020
+STR_108,Fresh Basket Square Hub,Bangalore,OnlineHub,2018
+STR_113,Prime Garden Square Hub,Delhi,OnlineHub,2020
+STR_109,Green Basket Square Hub,Mumbai,Mall,2019
+STR_112,,Mumbai,Mall,2018
+STR_110,,Mumbai,Mall,2019
+STR_111,,Delhi,Standalone,2022
