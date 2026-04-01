@@ -1,0 +1,221 @@
+return_id,return_date,reason,status
+RTN_001,27-10-2024,Customer Choice,Approved
+RTN_002,10-12-2023,Wrong Item,Approved
+RTN_003,30-05-2023,Damaged,Rejected
+RTN_004,21-05-2023,Customer Choice,Pending
+RTN_005,09-02-2023,Customer Choice,Rejected
+RTN_006,21-10-2023,Damaged,Pending
+RTN_007,28-04-2024,Damaged,Rejected
+RTN_008,13-12-2024,Customer Choice,Approved
+RTN_009,23-05-2023,Wrong Item,Rejected
+RTN_010,23-12-2024,Customer Choice,Rejected
+RTN_011,25-04-2024,Customer Choice,Pending
+RTN_012,04-04-2024,Damaged,Pending
+RTN_013,22-09-2024,Customer Choice,Rejected
+RTN_014,06-01-2023,Wrong Item,Pending
+RTN_015,23-03-2023,Damaged,Pending
+RTN_016,20-01-2023,Customer Choice,Pending
+RTN_017,20-09-2023,Customer Choice,Pending
+RTN_018,09-08-2023,Wrong Item,Pending
+RTN_019,03-06-2023,Customer Choice,Rejected
+RTN_020,15-07-2024,Customer Choice,Pending
+RTN_021,15-09-2024,Customer Choice,Approved
+RTN_022,24-06-2024,Customer Choice,Rejected
+RTN_023,09-03-2024,Wrong Item,Rejected
+RTN_024,24-04-2023,Customer Choice,Rejected
+RTN_025,23-10-2023,Customer Choice,Pending
+RTN_026,01-09-2023,Customer Choice,Approved
+RTN_027,05-11-2023,Damaged,Pending
+RTN_028,05-05-2023,Wrong Item,Rejected
+RTN_029,18-02-2023,Damaged,Rejected
+RTN_030,02-09-2023,Damaged,Rejected
+RTN_031,05-03-2024,Wrong Item,Rejected
+RTN_032,16-10-2024,Damaged,Pending
+RTN_033,29-09-2024,Damaged,Approved
+RTN_034,13-04-2024,Damaged,Approved
+RTN_035,06-03-2023,Wrong Item,Rejected
+RTN_036,24-04-2023,Customer Choice,Approved
+RTN_037,26-05-2024,Wrong Item,Rejected
+RTN_038,03-09-2024,Wrong Item,Rejected
+RTN_039,02-07-2024,Wrong Item,Approved
+RTN_040,17-01-2023,Damaged,Rejected
+RTN_041,09-10-2024,Customer Choice,Approved
+RTN_042,11-06-2024,Wrong Item,Rejected
+RTN_043,11-08-2024,Wrong Item,Approved
+RTN_044,05-09-2023,Customer Choice,Rejected
+RTN_045,28-05-2023,Customer Choice,Approved
+RTN_046,26-10-2023,Customer Choice,Rejected
+RTN_047,15-03-2024,Damaged,Rejected
+RTN_048,02-01-2023,Customer Choice,Rejected
+RTN_049,21-09-2024,Damaged,Approved
+RTN_050,28-12-2023,Wrong Item,Pending
+RTN_051,04-09-2023,Damaged,Rejected
+RTN_052,07-08-2024,Customer Choice,Rejected
+RTN_053,02-03-2024,Damaged,Approved
+RTN_054,11-07-2023,Customer Choice,Rejected
+RTN_055,11-11-2024,Damaged,Rejected
+RTN_056,15-11-2024,Wrong Item,Rejected
+RTN_057,29-03-2023,Damaged,Rejected
+RTN_058,20-06-2024,Wrong Item,Pending
+RTN_059,05-01-2024,Customer Choice,Pending
+RTN_060,11-03-2023,Wrong Item,Rejected
+RTN_061,22-06-2024,Customer Choice,Rejected
+RTN_062,11-07-2024,Customer Choice,Rejected
+RTN_063,03-06-2024,Wrong Item,Pending
+RTN_064,03-06-2024,Wrong Item,Pending
+RTN_065,21-07-2024,Damaged,Approved
+RTN_066,21-01-2023,Damaged,Approved
+RTN_067,04-02-2024,Wrong Item,Rejected
+RTN_068,26-04-2024,Wrong Item,Rejected
+RTN_069,14-02-2023,Wrong Item,Pending
+RTN_070,12-10-2024,Wrong Item,Rejected
+RTN_071,01-02-2024,Customer Choice,Rejected
+RTN_072,18-01-2024,Wrong Item,Pending
+RTN_073,17-09-2023,Wrong Item,Pending
+RTN_074,17-01-2023,Wrong Item,Pending
+RTN_075,01-01-2024,Wrong Item,Pending
+RTN_076,11-03-2023,Customer Choice,Approved
+RTN_077,20-12-2023,Damaged,Pending
+RTN_078,04-09-2023,Damaged,Pending
+RTN_079,03-11-2024,Damaged,Rejected
+RTN_080,05-10-2024,Damaged,Rejected
+RTN_081,17-04-2023,Damaged,Rejected
+RTN_082,18-08-2024,Customer Choice,Approved
+RTN_083,07-12-2023,Damaged,Pending
+RTN_084,17-05-2023,Customer Choice,Pending
+RTN_085,15-02-2023,Customer Choice,Approved
+RTN_086,27-12-2023,Damaged,Pending
+RTN_087,13-07-2024,Damaged,Rejected
+RTN_088,13-12-2023,Damaged,Approved
+RTN_089,20-10-2024,Wrong Item,Pending
+RTN_090,29-06-2023,Customer Choice,Approved
+RTN_091,02-12-2024,Damaged,Approved
+RTN_092,20-04-2024,Wrong Item,Pending
+RTN_093,13-12-2024,Customer Choice,Rejected
+RTN_094,05-05-2024,Wrong Item,Pending
+RTN_095,08-10-2024,Wrong Item,Pending
+RTN_096,06-07-2023,Damaged,Rejected
+RTN_097,19-05-2023,Customer Choice,Pending
+RTN_098,06-03-2023,Wrong Item,Pending
+RTN_099,13-04-2024,Customer Choice,Pending
+RTN_100,07-02-2023,Damaged,Approved
+RTN_101,28-10-2023,Customer Choice,Approved
+RTN_102,26-07-2023,Wrong Item,Approved
+RTN_103,14-02-2023,Wrong Item,Pending
+RTN_104,24-07-2023,Customer Choice,Rejected
+RTN_105,12-02-2023,Wrong Item,Approved
+RTN_106,20-11-2023,Wrong Item,Rejected
+RTN_107,14-11-2023,Wrong Item,Pending
+RTN_108,11-06-2024,Damaged,Approved
+RTN_109,12-02-2024,Damaged,Pending
+RTN_110,10-07-2024,Wrong Item,Rejected
+RTN_111,29-04-2024,Customer Choice,Approved
+RTN_112,17-09-2023,Damaged,Approved
+RTN_113,07-02-2023,Customer Choice,Approved
+RTN_114,24-10-2024,Wrong Item,Approved
+RTN_115,15-07-2023,Wrong Item,Rejected
+RTN_116,20-10-2023,Customer Choice,Approved
+RTN_117,01-01-2024,Damaged,Pending
+RTN_118,18-02-2023,Customer Choice,Approved
+RTN_119,02-11-2024,Customer Choice,Rejected
+RTN_120,06-12-2023,Wrong Item,Approved
+RTN_121,07-10-2023,Damaged,Rejected
+RTN_122,08-05-2023,Customer Choice,Rejected
+RTN_123,12-01-2024,Damaged,Pending
+RTN_124,23-03-2024,Wrong Item,Approved
+RTN_125,14-02-2024,Damaged,Approved
+RTN_126,26-03-2024,Wrong Item,Approved
+RTN_127,31-01-2024,Damaged,Pending
+RTN_128,14-12-2023,Customer Choice,Pending
+RTN_129,11-07-2023,Wrong Item,Rejected
+RTN_130,23-05-2024,Customer Choice,Rejected
+RTN_131,09-12-2024,Wrong Item,Rejected
+RTN_132,24-05-2024,Damaged,Pending
+RTN_133,12-01-2024,Damaged,Pending
+RTN_134,15-06-2024,Wrong Item,Pending
+RTN_135,01-10-2023,Wrong Item,Rejected
+RTN_136,26-03-2023,Wrong Item,Pending
+RTN_137,10-03-2024,Damaged,Rejected
+RTN_138,22-03-2023,Wrong Item,Rejected
+RTN_139,16-03-2024,Wrong Item,Approved
+RTN_140,08-09-2024,Customer Choice,Approved
+RTN_141,04-07-2023,Wrong Item,Approved
+RTN_142,12-07-2024,Customer Choice,Rejected
+RTN_143,28-10-2023,Customer Choice,Approved
+RTN_144,25-11-2023,Customer Choice,Approved
+RTN_145,16-04-2023,Damaged,Approved
+RTN_146,23-03-2023,Customer Choice,Pending
+RTN_147,02-12-2023,Wrong Item,Rejected
+RTN_148,07-11-2024,Damaged,Approved
+RTN_149,30-10-2023,Damaged,Pending
+RTN_150,10-11-2023,Damaged,Pending
+RTN_151,01-04-2024,Damaged,Pending
+RTN_152,09-09-2024,Damaged,Approved
+RTN_153,12-03-2024,Damaged,Pending
+RTN_154,20-06-2023,Damaged,Rejected
+RTN_155,07-12-2024,Customer Choice,Pending
+RTN_156,30-03-2024,Wrong Item,Pending
+RTN_157,26-12-2023,Wrong Item,Pending
+RTN_158,02-04-2024,Customer Choice,Pending
+RTN_159,13-02-2023,Customer Choice,Rejected
+RTN_160,28-12-2023,Damaged,Approved
+RTN_161,21-09-2024,Damaged,Rejected
+RTN_162,21-03-2024,Customer Choice,Rejected
+RTN_163,09-10-2023,Damaged,Approved
+RTN_164,16-10-2024,Wrong Item,Pending
+RTN_165,28-02-2023,Wrong Item,Approved
+RTN_166,18-03-2023,Damaged,Approved
+RTN_167,18-11-2024,Damaged,Rejected
+RTN_168,14-10-2024,Damaged,Approved
+RTN_169,20-02-2024,Wrong Item,Pending
+RTN_170,08-01-2024,Damaged,Rejected
+RTN_171,09-06-2024,Customer Choice,Pending
+RTN_172,26-11-2024,Damaged,Rejected
+RTN_173,13-06-2023,Customer Choice,Pending
+RTN_174,01-02-2023,Damaged,Approved
+RTN_175,27-05-2023,Damaged,Approved
+RTN_176,14-09-2024,Wrong Item,Approved
+RTN_177,25-11-2024,Customer Choice,Pending
+RTN_178,24-03-2024,Customer Choice,Rejected
+RTN_179,05-02-2023,Customer Choice,Rejected
+RTN_180,10-05-2023,Wrong Item,Rejected
+RTN_181,10-03-2023,Customer Choice,Approved
+RTN_182,30-08-2023,Wrong Item,Pending
+RTN_183,22-10-2024,Damaged,Rejected
+RTN_184,11-01-2024,Damaged,Pending
+RTN_185,06-01-2024,Customer Choice,Rejected
+RTN_186,28-01-2024,Damaged,Approved
+RTN_187,03-08-2024,Damaged,Pending
+RTN_188,03-02-2023,Customer Choice,Rejected
+RTN_189,11-09-2024,Damaged,Rejected
+RTN_190,07-06-2023,Customer Choice,Rejected
+RTN_191,26-11-2024,Customer Choice,Rejected
+RTN_192,05-04-2024,Damaged,Approved
+RTN_193,15-01-2024,Damaged,Rejected
+RTN_194,16-01-2024,Damaged,Rejected
+RTN_195,30-03-2024,Damaged,Approved
+RTN_196,20-03-2023,Damaged,Rejected
+RTN_197,10-08-2024,Wrong Item,Pending
+RTN_198,21-05-2023,Damaged,Pending
+RTN_199,26-06-2024,Wrong Item,Rejected
+RTN_200,11-01-2024,Customer Choice,Approved
+RTN_201,12-02-2024,Damaged,Approved
+RTN_202,18-11-2023,Damaged,Approved
+RTN_203,27-10-2024,Damaged,Rejected
+RTN_204,13-10-2023,Customer Choice,Rejected
+RTN_205,13-09-2023,Wrong Item,Pending
+RTN_206,27-04-2023,Wrong Item,Approved
+RTN_207,27-01-2023,Damaged,Rejected
+RTN_208,10-07-2023,Damaged,Rejected
+RTN_209,26-05-2024,Damaged,Rejected
+RTN_210,14-06-2024,Damaged,Approved
+RTN_211,01-02-2024,Customer Choice,Approved
+RTN_212,29-07-2024,Damaged,Pending
+RTN_213,01-05-2023,Customer Choice,Approved
+RTN_214,26-09-2023,Damaged,Rejected
+RTN_215,24-09-2023,Wrong Item,Pending
+RTN_216,21-12-2024,Wrong Item,Approved
+RTN_217,01-04-2024,Damaged,Approved
+RTN_218,08-08-2023,Damaged,Approved
+RTN_219,18-09-2024,Customer Choice,Approved
+RTN_220,20-10-2023,Damaged,Rejected
